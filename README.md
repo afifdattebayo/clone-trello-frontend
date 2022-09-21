@@ -1,5 +1,6 @@
 DEMO#
-[visit](https://clone-trello-frontend.vercel.app/)
+
+[View Demo](https://clone-trello-frontend.vercel.app/)
 
 # Getting Started with Create React App
 
